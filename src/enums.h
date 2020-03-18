@@ -25,6 +25,7 @@
 
 #ifndef enumsDEFINED
 #define enumsDEFINED
+#include <stdint.h>
 
 /* enums.c */
 #define enums_free_all moongl_enums_free_all
